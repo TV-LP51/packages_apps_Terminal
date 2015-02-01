@@ -14,7 +14,7 @@
 -->
 <resources>
     <!-- Material -->
-    <color name="primary">#212121</color>
-    <color name="primary_dark">#424242</color>
+    <color name="primary">#000000</color>
+    <color name="primary_dark">#212121</color>
     <color name="accent">#fafafa</color>
 </resources>
